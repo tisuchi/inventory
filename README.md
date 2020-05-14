@@ -1,4 +1,4 @@
-PHP-MySql based Invenotry Manegement System
+PHP-MySql based Inventory Manegement System
 ==========================================================
 (This is a university course based project. So that it is not commpleted. If you wantn to use that, just take your responsibility to update according your criteria. So that this project coded by procedural way of PHP and MySql. But I used functions to omake this coding reusable. In some cases, I used some special classes for make our project more smoothly.)
 
