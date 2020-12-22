@@ -1,6 +1,6 @@
 PHP-MySql based Inventory Manegement System
 ==========================================================
-(This is a university course based project. So that it is not commpleted. If you wantn to use that, just take your responsibility to update according your criteria. So that this project coded by procedural way of PHP and MySql. But I used functions to omake this coding reusable. In some cases, I used some special classes for make our project more smoothly.)
+(This is a university course based project. So that it is not commpleted. If you wantn to use that, just take your responsibility to update according your criteria. So that this project coded by procedural way of PHP and MySql. But I used functions to make this coding reusable. In some cases, I used some special classes for make our project more smoothly.)
 
 
 ## Languages, that is used
@@ -32,8 +32,6 @@ Now you need to upload database tables in your database. I already extracted all
 **in database, for all users, default password is 'password'**
 
 
-
-
 ## What need to make a Complete Project
 In order to make a complete project of this inventory, you need to create **edit** & **delete** options of all the segments. 
 - Edit User 
@@ -43,8 +41,4 @@ In order to make a complete project of this inventory, you need to create **edit
 - Edit Product
 - Delete Project
 
-
 Thank you.
-
-
-
